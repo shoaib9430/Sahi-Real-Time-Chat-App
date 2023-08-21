@@ -1,4 +1,4 @@
-# Text-A-Lot
+# Sahi-Chat-App
 
 > A Realtime Chat Application
 
